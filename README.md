@@ -5,14 +5,9 @@
 
 
 
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-          
-          
-https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
 v
