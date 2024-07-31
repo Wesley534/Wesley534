@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Peter Wesley 😊 </h1>
+<h3 align="center">A Software Developer </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley534&show_icons=true&theme=radical)
 
