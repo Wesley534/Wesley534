@@ -70,11 +70,7 @@ alt="wesley x" height="30" width="30"/></a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="50" height="50"/> </a>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley534&layout=compact&theme=buefy&hide_border=true" /></a>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wesley534&repo=anuraghazra.github.io&theme=buefy" />
-</a>
 <!--
 **Wesley534/Wesley534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
