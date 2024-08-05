@@ -1,5 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Peter Wesley 😊." src="./assets/gh-readme-header.png" /></p>
-<!-- <h1 align="center">Hi 👋, I'm Peter Wesley 😊 </h1>-->
+ <h1 align="center">Hi 👋, I'm Peter Wesley 😊 </h1>
 <h3 align="center">A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.</h3> 
 <p align="center">I enjoy writing code especially backend.</p>
 <h3 align="left" >📫 Connect with me:</h3>
