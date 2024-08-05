@@ -2,8 +2,8 @@
 <h3 align="center">A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.</h3> 
 <p align="center">I enjoy writing code especially backend.</p>
 <h3 align="left" >📫 Connect with me:</h3>
-<a href="https://twitter.com/malexiagak" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" 
-alt="malexiagak x" height="30" width="30"/></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" 
+alt="wesley x" height="30" width="30"/></a>
 <a href="https://www.linkedin.com/in/peter-wesley-22b744268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkzVonbYASlyzS%2BhQqBQ2sQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="malex-kagai linkedin" height="40" width="40" /></a>
 </p>
 
@@ -70,6 +70,10 @@ alt="malexiagak x" height="30" width="30"/></a>
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="50" height="50"/> </a>
 </p>
+
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wesley534&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 <!--
 **Wesley534/Wesley534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
