@@ -85,4 +85,6 @@ alt="wesley x" height="30" width="30"/></a>
 
 ## Projects
 * [City Weather](https://cityweather-wes.netlify.app/)
+* [Web3 projet](https://github.com/Wesley534/web3)
+
 
