@@ -84,7 +84,7 @@ alt="wesley x" height="30" width="30"/></a>
 
 
 ## Projects
-* [DevWell](https://aidevwell.netlify.app/login)
+* [DevWell](https://aidevwell.netlify.app)
 * [City Weather](https://cityweather-wes.netlify.app/)
 * [Web3 projet](https://github.com/Wesley534/web3)
 * [Wesley's site](https://peterwesly.netlify.app)
