@@ -81,6 +81,7 @@ alt="wesley x" height="30" width="30"/></a>
 
    
 </p>
+<img width='47%' align='left' src='https://github-readme-stats.vercel.app/api?username=wesley534&show_icons=true&theme=algolia'>
 
 
 ## Projects
