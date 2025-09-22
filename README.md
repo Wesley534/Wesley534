@@ -8,8 +8,8 @@ alt="wesley x" height="30" width="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools 🛠:</h3>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley534&show_icons=true&theme=radical)
- -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley534&show_icons=true&theme=radical)
+
 
 
 
@@ -84,10 +84,12 @@ alt="wesley x" height="30" width="30"/></a>
 
 
 ## Projects
+* [Wesley's site](https://peterwesly.netlify.app)
 * [DevWell](https://aidevwell.netlify.app)
 * [City Weather](https://cityweather-wes.netlify.app/)
 * [Web3 projet](https://github.com/Wesley534/web3)
-* [Wesley's site](https://peterwesly.netlify.app)
+* [Karibu kenya tourism site](https://karibu-kenya.netlify.app/)
+
 
 
 
