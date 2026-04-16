@@ -1,95 +1,101 @@
- <h1 align="center">Hi 👋, I'm Peter Wesley 😊 </h1>
-<h3 align="center">A Software Developer ✨ based in 🌍 Nairobi, Kenya 🇰🇪.</h3> 
-<p align="center">I enjoy writing code especially backend.</p>
-<h3 align="left" >📫 Connect with me:</h3>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" 
-alt="wesley x" height="30" width="30"/></a>
-<a href="https://www.linkedin.com/in/peter-wesley-22b744268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkzVonbYASlyzS%2BhQqBQ2sQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="malex-kagai linkedin" height="40" width="40" /></a>
+<div align="center">
+
+<!-- Snake animation -->
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<!-- Header -->
+<h1>Hi 👋, I'm Peter Wesley</h1>
+
+<!-- Typing SVG -->
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+%F0%9F%87%B0%F0%9F%87%AA+Nairobi%2C+Kenya;Backend+APIs+%E2%80%A2+Mobile+%E2%80%A2+Blockchain+%E2%80%A2+AI;Fintech+%E2%80%A2+Document+Systems+%E2%80%A2+Web3;Security-Minded+%E2%80%A2+Building+Things+That+Work" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  Highly motivated <b>Full-Stack Developer</b> building <b>web and mobile applications</b> — backend APIs, fintech workflows, blockchain integrations, and AI-powered features.<br>
+  Cybersecurity background that shapes how I think about <b>auth, failure modes, and system design</b>.<br>
+  Focus areas: <b>fintech</b>, <b>web3</b>, <b>document systems</b>, and <b>distributed infrastructure</b>.
 </p>
 
-<h3 align="left">Languages and Tools 🛠:</h3>
-<!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley534&show_icons=true&theme=radical)
- -->
-
-
-
-
-
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="60" height="60"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="60" height="60"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="60" height="60"/> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> 
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-
-<a href="https://travis-ci.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure-DevOps" width="40" height="40"/> </a> 
-
-
-<a href="https://www.netlify.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" alt="netlify" width="50" height="50"/> </a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
-    
- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-    
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-     
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  
-<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="50" height="50"/> </a>
-
-   
+<!-- Profile Views -->
+<p align="center">
+  <a href="https://github.com/Wesley534">
+    <img src="https://komarev.com/ghpvc/?username=Wesley534&label=Profile%20Views&color=00BFFF&style=for-the-badge&labelColor=0a0e14" alt="Profile Views" />
+  </a>
 </p>
 
+</div>
 
-## Projects
-* [Wesley's site](https://peterwesly.netlify.app)
-* [DevWell](https://aidevwell.netlify.app)
-* [City Weather](https://cityweather-wes.netlify.app/)
-* [Web3 projet](https://github.com/Wesley534/web3)
-* [Karibu kenya tourism site](https://karibu-kenya.netlify.app/)
+---
+
+## 🛠️ Technology Stack & Expertise
+
+<!-- Tech Stack -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,django,laravel,php,react,ts,js,postgres,mysql,docker,linux,git,rust&perline=16" alt="Tech Stack" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building **AiCoinTrack** — a fintech platform unifying Mpesa, crypto, bank, and cash
+- 🌱 Learning **distributed systems • scalability • system design • SAP BTP development**
+- 👨‍💻 Portfolio: **https://peterwesly.netlify.app**
+- 💬 Ask me about **FastAPI, Django, Laravel, Flutter, React, Stellar/Base integrations, AI in fintech**
+- 📫 Reach me at **peterwesley534@gmail.com**
+- ⚡ Fun fact: **I read code before I wrote it — cybersecurity trained me to understand systems by breaking them down**
+
+---
+
+## 📌 Projects
+
+> Hand-picked highlights from my GitHub (security, AI, and systems work).
+
+<div align="center">
+
+| Focus | Repo | What it is |
+|---|---|---|
+| **Agentic AI** | [Savannah Bites Agent](https://github.com/Wesley534/SavannahBitesAgent) | AI-assisted Restaurant) |
+| **Systems / Product** | [AiCointrack](https://github.com/Wesley534/cointrack) | Expense logging & tracking platform |
+| **Fintech / Infra** | [Boma-score](https://github.com/Wesley534/Boma-score) | Credit scoring MVP for side-hustles & chama members |
+| **Cybersecurity** | [Ethical Hacker](https://www.credly.com/badges/29ff7491-128f-4d1d-856b-d20c35fc4b0a/public_url) | Certified Ethical Hacker) |
 
 
+</div>
 
+---
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterwesley534@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-wesley-22b744268)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=netlify&logoColor=white)](https://peterwesly.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wesley534)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Wes_mt)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Wesley534&show_icons=true&theme=github_dark&hide_border=true&icon_color=00BFFF&title_color=00BFFF" alt="GitHub Stats" /> -->
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wesley534&theme=github-dark&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 💡 Engineering Philosophy
+
+<p align="center">
+  <i>"Security taught me that systems fail in unexpected ways. That's why I build things that are reliable first, clever second."</i>
+</p>
